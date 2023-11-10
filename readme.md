@@ -18,7 +18,7 @@ This project is a visual representation of my skills, projects, and experience i
 - Three.js
 - React
 - TailWind
-- (You can add other technologies or tools you have used)
+
 
 ## Installation
 
